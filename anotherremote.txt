@@ -1,0 +1,4 @@
+Added after git branch --track "name-of-remote-branch" origin/"name-of-remote-branch"
+NB. use git ls-remote to see remote branches
+NB. use git branch -a to see locally visible branches
+git push and pull should now auto-update each others' files
